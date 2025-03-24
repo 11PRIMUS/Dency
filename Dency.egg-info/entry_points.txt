@@ -1,0 +1,3 @@
+[console_scripts]
+dependency-fetcher = dependency_fetcher.cli:main
+

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Dency
+Version: 2.0
+Summary: feteches and generates requirements.txt
+Home-page: https://github.com/11PRIMUS/Dency.git
+Author: PRIMUS
+Author-email: alokpal2803@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10 
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+UNKNOWN
+
